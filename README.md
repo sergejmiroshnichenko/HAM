@@ -3,7 +3,7 @@ https://sergejmiroshnichenko.github.io/HAM/
 
 
 
-## In this project i realized layout for homepage site. Used technologies:
+#### In this project i realized layout for homepage site. Used technologies:
 
 _javascript to sort and load a new batch of images_ 
 
